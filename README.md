@@ -43,7 +43,7 @@ Para configurar o ambiente de desenvolvimento, siga as instruções abaixo:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/webapp.git
+   git clone https://github.com/gilstack/webapp-boilerplate.git
    cd webapp
    ```
 
